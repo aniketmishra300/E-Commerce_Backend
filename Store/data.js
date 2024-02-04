@@ -1,6 +1,4 @@
-const data = (req,res)=>
-{
-    res.send(
+const data =
         [
             {
               "id": "1",
@@ -1798,7 +1796,5 @@ const data = (req,res)=>
             }           
           
           ]
-    
-)}
 
 module.exports = data
