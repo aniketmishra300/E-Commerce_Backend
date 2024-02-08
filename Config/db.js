@@ -6,5 +6,4 @@ const connection = async (req,res)=>{
    console.log("connected to db")
 }
 
-
 module.exports = {connection}

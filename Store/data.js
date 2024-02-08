@@ -2,6 +2,7 @@ const data =
         [
             {
               "id": "1",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=70",
@@ -30,6 +31,7 @@ const data =
             },
             {
               "id": "2",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
@@ -58,6 +60,7 @@ const data =
             },
             {
               "id": "3",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70",
@@ -86,6 +89,7 @@ const data =
             },
             {
               "id": "4",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70",
@@ -114,6 +118,7 @@ const data =
             },
             {
               "id": "5",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
@@ -142,6 +147,7 @@ const data =
             },
             {
               "id": "6",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70",
@@ -170,6 +176,7 @@ const data =
             },
             {
                 "id": "7",
+                "quantity":1,
               "category": "Mobile",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/w/k/-original-imagg2abzhxjckxu.jpeg?q=70",
@@ -198,6 +205,7 @@ const data =
             },
             {
               "id": "8",
+              "quantity":1,
               "category": "Mobile",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/p/8/-original-imagg2a4rmk94gay.jpeg?q=70",
@@ -226,6 +234,7 @@ const data =
             },
             {
               "id": "9",
+              "quantity":1,
               "category": "Mobile",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/k/v/nord-ce3-5g-nord-ce3-5g-oneplus-original-imags44nffzykjsw.jpeg?q=70",
@@ -254,6 +263,7 @@ const data =
             },
             {
               "id": "10",
+              "quantity":1,
               "category": "Mobile",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/w/l/11r-5g-5011102527-oneplus-original-imagn3bq8t4ja5rx.jpeg?q=70",
@@ -282,6 +292,7 @@ const data =
             },
             {
               "id": "11",
+              "quantity":1,
               "category": "Mobile",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/c/e/nord-3-5g-cph2491-oneplus-original-imagrk2z92qpqgfd.jpeg?q=70",
@@ -310,6 +321,7 @@ const data =
             },
             {
               "id": "12",
+              "quantity":1,
               "category": "Mobile",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/6/1/nord-ce3-5g-nord-ce3-5g-oneplus-original-imags44dzvsqjkw6.jpeg?q=70",
@@ -338,6 +350,7 @@ const data =
             },
             {
               "id": "13",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70",
@@ -366,6 +379,7 @@ const data =
             },
             {
               "id": "14",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/f/m/-original-imagna3ezkdusyrz.jpeg?q=70",
@@ -394,6 +408,7 @@ const data =
             },
             {
               "id": "15",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/s/r/-original-imagpfbtmrr7spgc.jpeg?q=70",
@@ -422,6 +437,7 @@ const data =
             },
             {
               "id": "16",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/f/5/y02t-v2252-v2254-vivo-original-imagq63t87gg3cfd.jpeg?q=70",
@@ -450,6 +466,7 @@ const data =
             },
             {
               "id": "17",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/6/f/y27-v2249-vivo-original-imagrk4243kzgsrm.jpeg?q=70",
@@ -478,6 +495,7 @@ const data =
             },
             {
               "id": "18",
+              "quantity":1,
               "category": "Mobile",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/1/h/-original-imagpfbvfu4p55n4.jpeg?q=70",
@@ -506,6 +524,7 @@ const data =
             },
             {
               "id": "19",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/y/i/y/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhepavqyfyy.jpeg?q=70",
@@ -534,6 +553,7 @@ const data =
             },
             {
               "id": "20",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
@@ -562,6 +582,7 @@ const data =
             },
             {
               "id": "21",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/jyq5oy80/computer/t/y/2/apple-na-thin-and-light-laptop-original-imafgwev6abfznds.jpeg?q=70",
@@ -590,6 +611,7 @@ const data =
             },
             {
               "id": "22",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70",
@@ -618,6 +640,7 @@ const data =
             },
             {
               "id": "23",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/v/c/a/-original-imagfdfpnjjpdhq2.jpeg?q=70",
@@ -646,6 +669,7 @@ const data =
             },
             {
               "id": "24",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
@@ -674,6 +698,7 @@ const data =
             },
             {
               "id": "25",
+              "quantity":1,
               "category": "Laptop",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
@@ -702,6 +727,7 @@ const data =
             },
             {
               "id": "26",
+              "quantity":1,
               "category": "Laptop",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/9/v/w/245-g8-business-laptop-hp-original-imagn4bctguugysg.jpeg?q=70",
@@ -730,6 +756,7 @@ const data =
             },
             {
               "id": "27",
+              "quantity":1,
               "category": "Laptop",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/d/l/q/-original-imagphhh4syr7qrg.jpeg?q=70",
@@ -758,6 +785,7 @@ const data =
             },
             {
               "id": "28",
+              "quantity":1,
               "category": "Laptop",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/g/x/f/-original-imagrmczkxwg5uvs.jpeg?q=70",
@@ -786,6 +814,7 @@ const data =
             },
             {
               "id": "29",
+              "quantity":1,
               "category": "Laptop",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/v/9/-original-imagp7pfeutcgxrn.jpeg?q=70",
@@ -814,6 +843,7 @@ const data =
             },
             {
               "id": "30",
+              "quantity":1,
               "category": "Laptop",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/j/r/j/-original-imagp7pfqggfaqqm.jpeg?q=70",
@@ -842,6 +872,7 @@ const data =
             },
             {
               "id": "31",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70",
@@ -870,6 +901,7 @@ const data =
             },
             {
               "id": "32",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/tablet/w/w/o/-original-imagcbjahwcnqbfh.jpeg?q=70",
@@ -898,6 +930,7 @@ const data =
             },
             {
               "id": "33",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/tablet/r/4/m/-original-imagj72vqsfqgzpf.jpeg?q=70",
@@ -926,6 +959,7 @@ const data =
             },
             {
               "id": "34",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/tablet/r/v/e/-original-imagj72vv3gydgem.jpeg?q=70",
@@ -954,6 +988,7 @@ const data =
             },
             {
               "id": "35",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/tablet/o/k/w/-original-imagj72ttsqcrehk.jpeg?q=70",
@@ -982,6 +1017,7 @@ const data =
             },
             {
               "id": "36",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/tablet/z/u/w/-original-imagcbjayxa5jjxz.jpeg?q=70",
@@ -1010,6 +1046,7 @@ const data =
             },
             {
               "id": "37",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/k6qsn0w0/tablet/3/q/z/lenovo-za5g0047in-original-imafp4w7qvpnprv5.jpeg?q=70",
@@ -1038,6 +1075,7 @@ const data =
             },
             {
               "id": "38",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/tablet/1/u/j/-original-imagpx52ufs5fqdk.jpeg?q=70",
@@ -1066,6 +1104,7 @@ const data =
             },
             {
               "id": "39",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/kq18n0w0/tablet/p/f/u/za5g0176in-lenovo-original-imag4525frzw2qa7.jpeg?q=70",
@@ -1095,6 +1134,7 @@ const data =
             {
         
               "id": "40",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/ku04o7k0/tablet/y/e/r/za8n0068in-lenovo-original-imag78cevnuyeswy.jpeg?q=70",
@@ -1124,6 +1164,7 @@ const data =
             {
               
               "id": "41",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/tablet/g/a/d/-original-imagpx527grt4g9g.jpeg?q=70",
@@ -1152,6 +1193,7 @@ const data =
             },
             {
               "id": "42",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/ku04o7k0/tablet/y/e/r/za8n0068in-lenovo-original-imag78cevnuyeswy.jpeg?q=70",
@@ -1180,6 +1222,7 @@ const data =
             },
             {
               "id": "43",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/1/8/l/-original-imagqhswqgpwb2yu.jpeg?q=70",
@@ -1208,6 +1251,7 @@ const data =
             },
             {
               "id": "44",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/612/612/l31x2fk0/headphone/a/s/h/-original-image9ehehz8amg2.jpeg?q=70",
@@ -1236,6 +1280,7 @@ const data =
             },
             {
               "id": "45",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/2/h/i/-original-imagqkthmjfjrdcz.jpeg?q=70",
@@ -1263,7 +1308,8 @@ const data =
               "__v": 0
             },
             {
-              "id": "45",
+              "id": "46",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/n/z/-original-imaghgnsgpy5vffz.jpeg?q=70",
@@ -1292,6 +1338,7 @@ const data =
             },
             {
               "id": "47",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/6/z/9/-original-imagg33uwkrpzhjj.jpeg?q=70",
@@ -1312,7 +1359,6 @@ const data =
                 "cost": 899,
                 "discount": "82%"
               },
-              "quantity": 1,
               "rating": 4,
               "description": "Let the beats guide you as you live the rhythm with the Boult F Charge neckband. Experience the powerful Extra Bass technology, delivering deep and resonant tones that take your music to new heights. With its Environmental Noise Cancellation technology, enjoy uninterrupted audio clarity in any environment. The IPX5 water-resistant design ensures durability and worry-free use during workouts or outdoor activities. With an impressive 40 hours of playtime and a quick 10-minute charge providing 15 hours of playback, you can enjoy your favorite tunes without breaks. Stay connected with Bluetooth 5.2 and effortlessly control your music and calls with the inline controls.",
               "discount": "Extra 12% Off",
@@ -1320,6 +1366,7 @@ const data =
             },
             {
               "id": "48",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/832/832/krntoy80/headphone/j/l/n/ydjc01jy-mi-original-imag5egze7eb9taj.jpeg?q=70",
@@ -1348,6 +1395,7 @@ const data =
             },
             {
               "id": "49",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Speakers",
               "url": "https://rukminim2.flixcart.com/image/832/832/kingqkw0-0/speaker/mobile-tablet-speaker/s/8/i/stone-350-boat-original-imafyebfuaumdezs.jpeg?q=70",
@@ -1376,6 +1424,7 @@ const data =
             },
             {
               "id": "50",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Speakers",
               "url": "https://rukminim2.flixcart.com/image/832/832/kplisnk0/speaker/mobile-tablet-speaker/i/o/5/bs5pl-gn-mivi-original-imag3sgm6cx4zxtd.jpeg?q=70",
@@ -1404,6 +1453,7 @@ const data =
             },
             {
               "id": "51",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Speakers",
               "url": "https://rukminim2.flixcart.com/image/832/832/ke353m80-0/speaker/mobile-tablet-speaker/4/v/0/stone-193-boat-original-imafuuqhugkggfbm.jpeg?q=70",
@@ -1432,6 +1482,7 @@ const data =
             },
             {
               "id": "52",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Speakers",
               "url": "https://rukminim2.flixcart.com/image/832/832/kzfvzww0/speaker/pa-speaker/f/t/d/best-karaoke-speaker-thunder-high-bass-power-dj-lights-fm-usb-original-imagbgahesxnyzr4.jpeg?q=70",
@@ -1460,6 +1511,7 @@ const data =
             },
             {
               "id": "53",
+              "quantity":1,
               "category": "Accessories",
               "brand": "Speakers",
               "url": "https://rukminim2.flixcart.com/image/832/832/kw85bww0/speaker/mobile-tablet-speaker/k/w/u/new-arrival-ultra-dj-sound-blast-with-super-deep-bass-wireless-original-imag8y6mzgbpq2dz.jpeg?q=70",
@@ -1516,6 +1568,7 @@ const data =
             },
             {
               "id": "55",
+              "quantity":1,
               "category": "Home",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/x/j/-original-imaghxejqvpwfqh2.jpeg?q=70",
@@ -1544,6 +1597,7 @@ const data =
             },
             {
               "id": "56",
+              "quantity":1,
               "category": "Home",
               "brand": "OnePlus",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/p/8/-original-imagg2a4rmk94gay.jpeg?q=70",
@@ -1572,6 +1626,7 @@ const data =
             },
             {
               "id": "57",
+              "quantity":1,
               "category": "Home",
               "brand": "Vivo",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/f/m/-original-imagna3ezkdusyrz.jpeg?q=70",
@@ -1600,6 +1655,7 @@ const data =
             },
             {
               "id": "58",
+              "quantity":1,
               "category": "Home",
               "brand": "Lenovo",
               "url": "https://rukminim2.flixcart.com/image/312/312/k6qsn0w0/tablet/3/q/z/lenovo-za5g0047in-original-imafp4w7qvpnprv5.jpeg?q=70",
@@ -1628,6 +1684,7 @@ const data =
             },
             {
               "id": "59",
+              "quantity":1,
               "category": "Home",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/n/z/-original-imaghgnsgpy5vffz.jpeg?q=70",
@@ -1656,6 +1713,7 @@ const data =
             },
             {
               "id": "60",
+              "quantity":1,
               "category": "Home",
               "brand": "Speakers",
               "url": "https://rukminim2.flixcart.com/image/832/832/kplisnk0/speaker/mobile-tablet-speaker/i/o/5/bs5pl-gn-mivi-original-imag3sgm6cx4zxtd.jpeg?q=70",
@@ -1684,6 +1742,7 @@ const data =
             },
             {
               "id": "61",
+              "quantity":1,
               "category": "Home",
               "brand": "HP",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/d/l/q/-original-imagphhh4syr7qrg.jpeg?q=70",
@@ -1712,6 +1771,7 @@ const data =
             },
             {
               "id": "62",
+              "quantity":1,
               "category": "Home",
               "brand": "Earphones",
               "url": "https://rukminim2.flixcart.com/image/612/612/l31x2fk0/headphone/a/s/h/-original-image9ehehz8amg2.jpeg?q=70",
@@ -1740,6 +1800,7 @@ const data =
             },
             {
               "id": "63",
+              "quantity":1,
               "category": "Tablet",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/l0jwbrk0/tablet/z/u/w/-original-imagcbjayxa5jjxz.jpeg?q=70",
@@ -1768,6 +1829,7 @@ const data =
             },
             {
               "id": "64",
+              "quantity":1,
               "category": "Laptop",
               "brand": "Apple",
               "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
@@ -1781,7 +1843,6 @@ const data =
                  "two":"Bank Offer 10% Off on Bank of Baroda Mastercard debit card first time transaction, Terms and Condition apply",
                "three":"Purchase this Furniture or Appliance and Get Extra ₹500 Off on Select ACs",
                 "four":"Partner OfferExtra 10% off upto ₹500 on next furniture purchase"
-  
               },
               "price": {
                 "mrp": 119990,
@@ -1794,7 +1855,6 @@ const data =
               "discount": "Extra 4% Off",
               "__v": 0
             }           
-          
           ]
 
 module.exports = data

@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 
 const mobileSchema = new mongoose.Schema({
     id: String,
+    quantity:Number,
     category: String,
     brand: String,
     url: String,
@@ -28,7 +29,18 @@ const mobileSchema = new mongoose.Schema({
     discount: String
 });
 
-const Collection = mongoose.model('items', mobileSchema);
-const CartCollection = mongoose.model('Cart', mobileSchema);
 
-module.exports = Collection;
+const userSchema = new mongoose.Schema({
+    name : String,
+    email : String,
+    password: String
+})
+
+
+const Collection = mongoose.model('items', mobileSchema);
+
+const cart = mongoose.model('Add_to_Cart', mobileSchema)
+
+const userDetails = mongoose.model("UserDetails",userSchema)
+
+module.exports = {Collection,cart,userDetails};
